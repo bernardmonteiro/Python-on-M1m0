@@ -24,10 +24,3 @@ player_1_score = 20
 player_2_score = 5
 print(f"{player_1} wins with {player_1_score} to {player_2_score}")
 print("--------------------------") 
-
-
-# In[ ]:
-
-
-
-
