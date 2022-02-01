@@ -1,7 +1,7 @@
 # Python-on-M1m0
 My First Steps with Python and More
 
-So far, I covered the following topics:
+So far, I completed the following topics:
 
 - Python Basics
 - Types and Comparisons
